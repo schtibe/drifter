@@ -24,6 +24,7 @@ For migration information, you can always have a look at https://liip-drifter.re
 
 ### Fixed
 - MySQL role: fix installation of MySQL packages by upgrading mysql-apt-config
+- MySQL role: improve upgrades of MySQL by executing mysql_upgrade
 
 ## [1.1.1] - 2017-02-02
 
